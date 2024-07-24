@@ -1,3 +1,4 @@
+![logo](https://github.com/Pratikbalodi/Pratikbalodi/blob/main/banner/bannerab.png)
 <h1 align="center">Hi 👋, I'm PRATIK BALODI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
