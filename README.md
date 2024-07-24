@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm PRATIK BALODI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.simontechway.com/wp-content/uploads/2020/04/dev-gif.gif">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikbalodi&label=Profile%20views&color=0e75b6&style=flat" alt="pratikbalodi" /> </p>
 
