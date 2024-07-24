@@ -1,6 +1,6 @@
 ![logo](https://github.com/Pratikbalodi/Pratikbalodi/blob/main/banner/bannerab.png)
 <h1 align="center">Hi 👋, I'm PRATIK BALODI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Software Engineer Intern from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/HolyZheng/holyZheng-blog/master/images/coding.gif">
 
