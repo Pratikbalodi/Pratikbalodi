@@ -16,7 +16,7 @@
 - 📫 How to reach me **prateekbalodi@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LdvPFcGfh3i7iN5LG-D9LOfZwbo4pw7S/view?usp=drive_link](https://drive.google.com/file/d/1LdvPFcGfh3i7iN5LG-D9LOfZwbo4pw7S/view?usp=drive_link)
-<img align="right" alt="coding" width="200" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
+<img align="right" alt="coding" width="250" src="https://gifdb.com/images/thumbnail/coding-function-repeat-eat-sleep-7zxwkklr847mhchm.gif">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
